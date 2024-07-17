@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello, I'm Emr<br>About Me<br>Hello! I'm Emr, a passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, Java, and Javascript. Additionally, I have a basic understanding of C#.<br><br>🌱 I’m currently working on improving my skills with myself.<br><br>Skills and Experience<br><br>Python: Started on 2019<br>Flutter: Started on 2024<br>React: Started on 2024<br>Java: Started on 2024<br>Javascript: Started on 2022<br>C#: Started on 2024<br>Highlighted Project<br>Sound Sharing: With this project, you can hear your computer sound on your phone.<br><br>Contact<br>GitHub: github.com/EmrD<br><br>Contributing<br>If you would like to collaborate on projects or contribute to open-source, feel free to reach out to me!
 
 
