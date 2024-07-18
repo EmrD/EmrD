@@ -1,5 +1,5 @@
 # About Me
-Hello! I'm Emr, a passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, 
+I'm Emr, a passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, 
 Java, and Javascript. Additionally, I have a basic understanding of C#.<br><br> I’m currently working on improving my skills with myself.<br><br><br><br>
 # Skills and Experience
 
