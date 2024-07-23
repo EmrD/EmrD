@@ -14,7 +14,7 @@ https://github.com/EmrD/Sound-Sharing
 
 # Contributing
 
-<br>If you would like to collaborate on projects or contribute to open-source, feel free to reach out to me!
+<br>If you would like to collaborate on projects or contribute to open-source, feel free to reach out to me.
 
 
 # 💻 Tech Stack:
