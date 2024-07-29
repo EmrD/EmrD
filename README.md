@@ -9,6 +9,9 @@ Java, and Javascript. Additionally, I have a basic understanding of C#.<br><br> 
 https://github.com/EmrD/Sound-Sharing
 <br><br>
 
+# First Relase
+<br>https://github.com/EmrD/java-get-disk-temp/releases/tag/v1.0.0-beta<br><br>
+
 # Contact
 <br>• GitHub: github.com/EmrD<br><br>
 
