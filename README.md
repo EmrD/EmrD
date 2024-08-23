@@ -13,6 +13,7 @@ https://github.com/EmrD/Sound-Sharing
 <br>https://github.com/EmrD/java-get-disk-temp/releases/tag/v1.0.0-beta<br><br>
 
 # My VSCode Extension
+<br>https://marketplace.visualstudio.com/items?itemName=EmrD.doublespacetoenter<br><br>
 <br>https://github.com/EmrD/DoubleSpaceToEnterVSCode<br><br>
 
 # Contact
