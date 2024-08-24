@@ -22,6 +22,9 @@ https://github.com/EmrD/Sound-Sharing
 <br>https://marketplace.visualstudio.com/items?itemName=EmrD.doublespacetoenter<br><br>
 <br>https://github.com/EmrD/DoubleSpaceToEnterVSCode<br><br>
 
+# My NPM Package
+<br>https://www.npmjs.com/package/todo-cli-package/v/latest<br><br>
+
 # Contact
 <br>• GitHub: github.com/EmrD<br><br>
 
