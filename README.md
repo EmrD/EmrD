@@ -1,9 +1,15 @@
 # About Me
-I'm Emr, a passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, 
+A passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, 
 Java, and Javascript. Additionally, I have a basic understanding of C#.<br><br> I’m currently working on improving my skills with myself.<br><br><br><br>
 # Skills and Experiences
 
 • Python: Started on 2019<br>• Flutter: Started on 2024<br>• React: Started on 2024<br>• Java: Started on 2024<br>• Javascript: Started on 2022<br>• C#: Started on 2024<br>• Unreal Engine: Started on 2021<br>• Unity Engine: Started on 2024<br>• C++: Started on 2024<br>• Node.JS: Started on 2024<br>• Docker: Started on 2024<br>• Python (Flask): Started on 2024<br>• Python (Django): Started on 2024<br>• .NET: Started on 2024<br>
+
+# Languages
+• Türkçe<br>
+• English<br>
+• Deutsch<br>
+
 # Highlighted Project
 <br>Sound Sharing: With this project, you can hear your computer sound on your phone.
 https://github.com/EmrD/Sound-Sharing
