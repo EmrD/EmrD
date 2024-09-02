@@ -22,6 +22,8 @@ https://github.com/EmrD/Sound-Sharing
 <br>https://marketplace.visualstudio.com/items?itemName=EmrD.doublespacetoenter<br><br>
 <br>https://github.com/EmrD/DoubleSpaceToEnterVSCode<br><br>
 
+--------------------------------------------------------------------------------------------
+
 <br>https://marketplace.visualstudio.com/items?itemName=EmrD.clean-from-text<br><br>
 <br>https://github.com/EmrD/clear-hash-extention<br><br>
 
