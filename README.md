@@ -18,9 +18,12 @@ https://github.com/EmrD/Sound-Sharing
 # First Relase
 <br>https://github.com/EmrD/java-get-disk-temp/releases/tag/v1.0.0-beta<br><br>
 
-# My VSCode Extension
+# My VSCode Extensions
 <br>https://marketplace.visualstudio.com/items?itemName=EmrD.doublespacetoenter<br><br>
 <br>https://github.com/EmrD/DoubleSpaceToEnterVSCode<br><br>
+
+<br>https://marketplace.visualstudio.com/items?itemName=EmrD.clean-from-text<br><br>
+<br>https://github.com/EmrD/clear-hash-extention<br><br>
 
 # My NPM Package
 <br>https://www.npmjs.com/package/todo-cli-package/v/latest<br><br>
