@@ -1,6 +1,6 @@
 # About Me
 A passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, 
-Java, and Javascript. Additionally, I have a basic understanding of C#.<br><br> I’m currently working on improving my skills with myself.<br><br><br><br>
+Java, and Javascript. Additionally, I have a basic understanding of C#. Also I'm a backend developer<br><br> I’m currently working on improving my skills with myself.<br><br><br><br>
 # Skills and Experiences
 
 • Python: Started on 2019<br>• Flutter: Started on 2024<br>• React: Started on 2024<br>• Java: Started on 2024<br>• Javascript: Started on 2022<br>• C#: Started on 2024<br>• Unreal Engine: Started on 2021<br>• Unity Engine: Started on 2024<br>• C++: Started on 2024<br>• Node.JS: Started on 2024<br>• Docker: Started on 2024<br>• Python (Flask): Started on 2024<br>• Python (Django): Started on 2024<br>• .NET: Started on 2024<br>
