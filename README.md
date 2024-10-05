@@ -31,6 +31,10 @@ https://github.com/EmrD/Sound-Sharing
 <br>https://www.npmjs.com/package/todo-cli-package/v/latest<br><br>
 <br>https://github.com/EmrD/todo-cli-npm<br><br>
 
+# My IDX Template
+### React + Tailwind CSS Template
+https://github.com/EmrD/idx-react-template/releases<br><br>
+
 # Contact
 <br>• GitHub: github.com/EmrD<br><br>
 
