@@ -35,6 +35,9 @@ https://github.com/EmrD/Sound-Sharing
 ### React + Tailwind CSS Template
 https://github.com/EmrD/idx-react-template/releases<br><br>
 
+# My Java Library
+https://github.com/EmrD/java-logging-package/releases/latest<br><br>
+
 # Contact
 <br>• GitHub: github.com/EmrD<br><br>
 
