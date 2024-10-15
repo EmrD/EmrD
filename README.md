@@ -41,6 +41,12 @@ I’m currently working on improving my skills with myself.
 
 ---
 
+# My Python Library On PyPI
+- [PyPI Link](https://pypi.org/project/emr-password-manager/)  
+- [GitHub Repository](https://github.com/EmrD/python-password-manager-library)
+  
+---
+
 # My VSCode Extensions
 - [Double Space to Enter](https://marketplace.visualstudio.com/items?itemName=EmrD.doublespacetoenter)  
 - [GitHub Repository](https://github.com/EmrD/DoubleSpaceToEnterVSCode)  
