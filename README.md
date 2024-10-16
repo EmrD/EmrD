@@ -26,7 +26,9 @@ I’m currently working on improving my skills with myself.
 # Languages
 - **Türkçe**  
 - **English**  
-- **Deutsch**  
+- **Deutsch**
+
+**I'm also translating across various languages such as Türkçe, English and Deutsch on [packaging.python.org](https://hosted.weblate.org/projects/pypa/packaging-python-org/)**
 
 ---
 
