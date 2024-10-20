@@ -58,9 +58,12 @@ I’m currently working on improving my skills with myself.
 
 ---
 
-# My NPM Package
+# My NPM Packages
 - [Todo CLI Package](https://www.npmjs.com/package/todo-cli-package/v/latest)  
-- [GitHub Repository](https://github.com/EmrD/todo-cli-npm)  
+- [GitHub Repository](https://github.com/EmrD/todo-cli-npm)
+
+- [React Popup Package](https://www.npmjs.com/package/react-popup-package)  
+- [GitHub Repository](https://github.com/EmrD/react-popup-npm-library/)  
 
 ---
 
