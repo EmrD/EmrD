@@ -20,8 +20,8 @@ I’m currently working on improving my skills with myself.
 - **Python (Flask):** Started on 2024 - 2024  
 - **Python (Django):** Started on 2024 - 2024 
 - **.NET:** Started on 2024 - 2024
-- **Apache Kafka:** Started on 2024 - 2024 
-
+- **Apache Kafka:** Started on 2024 - 2024
+- **RabbitMQ:** Started on 2024 - 2024
 ---
 
 # Languages
