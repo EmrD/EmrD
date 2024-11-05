@@ -6,20 +6,20 @@ I’m currently working on improving my skills with myself.
 ---
 
 # Skills and Experiences
-- **Python:** Started on 2019  
-- **Flutter:** Started on 2024  
-- **React:** Started on 2024  
-- **Java:** Started on 2024  
-- **Javascript:** Started on 2022  
-- **C#:** Started on 2024  
-- **Unreal Engine:** Started on 2021  
-- **Unity Engine:** Started on 2024  
-- **C++:** Started on 2024  
-- **Node.JS:** Started on 2024  
-- **Docker:** Started on 2024  
-- **Python (Flask):** Started on 2024  
-- **Python (Django):** Started on 2024  
-- **.NET:** Started on 2024  
+- **Python:** Started on 2019 - Now
+- **Flutter:** Started on 2024 - Now
+- **React:** Started on 2024 - Now
+- **Java:** Started on 2024 - Now
+- **Javascript:** Started on 2022 - Now
+- **C#:** Started on 2024 - 2024
+- **Unreal Engine:** Started on 2021 - 2024 
+- **Unity Engine:** Started on 2024 - 2024 
+- **C++:** Started on 2024 - 2024 
+- **Node.JS:** Started on 2024 - Now 
+- **Docker:** Started on 2024 - 2024 
+- **Python (Flask):** Started on 2024 - 2024  
+- **Python (Django):** Started on 2024 - 2024 
+- **.NET:** Started on 2024 - 2024 
 
 ---
 
