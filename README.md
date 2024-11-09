@@ -22,6 +22,7 @@ I’m currently working on improving my skills with myself.
 - **.NET:** Started on 2024 - 2024
 - **Apache Kafka:** Started on 2024 - 2024
 - **RabbitMQ:** Started on 2024 - 2024
+- **MongoDB:** Started on 2024 - 2024
 ---
 
 # Languages
