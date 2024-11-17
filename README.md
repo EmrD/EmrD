@@ -7,12 +7,12 @@ I’m currently working on improving my skills with myself.
 
 # My Skills
 - **Python:** Started on 2019 - Now
-- **Flutter:** Started on 2024 - Now
+- **Flutter:** Started on 2024 - 2024
 - **React:** Started on 2024 - Now
 - **Java:** Started on 2024 - Now
 - **Java Spring:** Started on 2024 - 2024
 - **JavaScript:** Started on 2022 - Now
-- **C#:** Started on 2024 - 2024
+- **C#:** Started on 2024 - Now
 - **Unreal Engine:** Started on 2021 - 2024 
 - **Unity Engine:** Started on 2024 - 2024  
 - **Node.JS:** Started on 2024 - Now 
@@ -21,6 +21,7 @@ I’m currently working on improving my skills with myself.
 - **Apache Kafka:** Started on 2024 - 2024
 - **RabbitMQ:** Started on 2024 - 2024
 - **MongoDB:** Started on 2024 - 2024
+- **Firebase:** Started on 2024 - Now
 ---
 
 # Languages
