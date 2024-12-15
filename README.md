@@ -44,6 +44,12 @@ I’m currently working on improving my skills with myself.
 
 ---
 
+# My Flutter Package On pub.dev
+- [pub.dev Link](https://pub.dev/packages/simplexpandablecard)  
+- [GitHub Repository](https://github.com/EmrD/flutter-expandable-card-package)
+  
+---
+
 # My Python Library On PyPI
 - [PyPI Link](https://pypi.org/project/emr-password-manager/)  
 - [GitHub Repository](https://github.com/EmrD/python-password-manager-library)
