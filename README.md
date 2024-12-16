@@ -23,7 +23,7 @@ I’m currently working on improving my skills with myself.
 - **MongoDB:** Started on 2024 - 2024
 - **Firebase:** Started on 2024 - Now
 
-<a href="https://pub.dev/packages/simplexpandablecard"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/package-publisher.svg" alt="Package Publisher" align="left" height="60" width="60" ></a>
+<a href="https://pub.dev/packages/simplexpandablecard"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/package-publisher.svg" alt="Package Publisher" align="left" height="60" width="60" ></a> <br> </br>
 ---
 
 
