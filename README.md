@@ -64,7 +64,7 @@ I’m currently working on improving my skills with myself.
 - [Double Space to Enter](https://marketplace.visualstudio.com/items?itemName=EmrD.doublespacetoenter)  
 - [GitHub Repository](https://github.com/EmrD/DoubleSpaceToEnterVSCode)  
 
-- [Clean From Text](https://marketplace.visualstudio.com/items?itemName=EmrD.clean-from-text)  
+- [Clean # From Text](https://marketplace.visualstudio.com/items?itemName=EmrD.clean-from-text)  
 - [GitHub Repository](https://github.com/EmrD/clear-hash-extention)  
 
 ---
