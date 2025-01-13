@@ -5,11 +5,10 @@ I’m currently working on improving my skills with myself.
 
 ---
 
-# My Skills
+# My Project Languages
 - **Python:** Started on 2019 - Now
 - **Flutter:** Started on 2024 - 2024
 - **React:** Started on 2024 - Now
-- **Java:** Started on 2024 - Now
 - **Java Spring:** Started on 2024 - 2024
 - **JavaScript:** Started on 2022 - Now
 - **C#:** Started on 2024 - Now
@@ -22,6 +21,8 @@ I’m currently working on improving my skills with myself.
 - **RabbitMQ:** Started on 2024 - 2024
 - **MongoDB:** Started on 2024 - 2024
 - **Firebase:** Started on 2024 - Now
+- **C:** Started on 2025 - 2025
+- **C++:** Started on 2025 - 2025
 
 <a href="https://pub.dev/packages/simplexpandablecard"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/package-publisher.svg" alt="Package Publisher" align="left" height="60" width="60" ></a>
 <br> </br>
