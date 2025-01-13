@@ -5,7 +5,7 @@ I’m currently working on improving my skills with myself.
 
 ---
 
-# My Project Languages
+# My Project Languages And Technologies
 - **Python:** Started on 2019 - Now
 - **Flutter:** Started on 2024 - 2024
 - **React:** Started on 2024 - Now
