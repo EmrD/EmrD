@@ -1,5 +1,5 @@
 # About Me
-A passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, Java, and Javascript. Also I'm a backend developer but I can write frontend codes as much as I can.
+A passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, Java, and Javascript. Also I'm a backend developer but I can write frontend codes as much as I can. I started learning on 2019.
 
 I’m currently working on improving my skills with myself.
 
