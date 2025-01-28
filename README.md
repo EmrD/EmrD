@@ -21,7 +21,7 @@ I’m currently working on improving my skills with myself.
 - **RabbitMQ:** Started on 2024 - 2024
 - **MongoDB:** Started on 2024 - 2024
 - **PostgreSQL:** Started on 2025 - 2025
-- **Firebase:** Started on 2024 - Now
+- **Firebase / Google Cloud:** Started on 2024 - Now
 - **C:** Started on 2025 - 2025
 - **C++:** Started on 2025 - 2025
 
