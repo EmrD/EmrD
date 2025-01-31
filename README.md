@@ -22,7 +22,7 @@ I’m currently working on improving my skills with myself.
 - **MongoDB:** Started on 2024 - 2024
 - **PostgreSQL:** Started on 2025 - 2025
 - **Firebase / Google Cloud:** Started on 2024 - Now
-- **Hibernetes ORM:** Started on 2025 - 2025
+- **Hibernete ORM:** Started on 2025 - 2025
 - **C:** Started on 2025 - 2025
 - **C++:** Started on 2025 - 2025
 
