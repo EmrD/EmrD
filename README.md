@@ -6,25 +6,39 @@ I’m currently working on improving my skills with myself.
 ---
 
 # My Project Languages And Technologies
-- **Python:** Started on 2019 - Now
-- **Flutter:** Started on 2024 - 2024
-- **React:** Started on 2024 - Now
-- **Java Spring:** Started on 2024 - 2024
-- **JavaScript:** Started on 2022 - Now
-- **C#:** Started on 2024 - Now
-- **Unreal Engine:** Started on 2021 - 2024 
-- **Unity Engine:** Started on 2024 - 2024  
-- **Node.JS:** Started on 2024 - Now 
-- **Docker:** Started on 2024 - 2024   
-- **.NET:** Started on 2024 - 2024
-- **Apache Kafka:** Started on 2024 - 2024
-- **RabbitMQ:** Started on 2024 - 2024
-- **MongoDB:** Started on 2024 - 2024
-- **PostgreSQL:** Started on 2025 - 2025
-- **Firebase / Google Cloud:** Started on 2024 - Now
-- **Hibernete ORM:** Started on 2025 - 2025
-- **C:** Started on 2025 - 2025
-- **C++:** Started on 2025 - 2025
+
+## Languages
+- **Python** (Started in 2019)  
+- **JavaScript** (Started in 2022)  
+- **C#** (Started in 2024)  
+- **C** (Started in 2025)  
+- **C++** (Started in 2025)  
+
+## Frameworks & Libraries
+- **Flutter** (Started in 2024)  
+- **React** (Started in 2024)  
+- **Java Spring Boot** (Started in 2024)  
+- **Node.js** (Started in 2024)  
+- **.NET** (Started in 2024)  
+
+## Game Development (Game Engines)
+- **Unreal Engine** (Started in 2021)  
+- **Unity Engine** (Started in 2024)  
+
+## Containerization & Virtualization
+- **Docker** (Started in 2024)  
+
+## Message Brokers & Event Streaming
+- **Apache Kafka** (Started in 2024)  
+- **RabbitMQ** (Started in 2024)  
+
+## Databases & Storage
+- **MongoDB** (Started in 2024)  
+- **PostgreSQL** (Started in 2025)  
+- **Firebase / Google Cloud** (Started in 2024)  
+
+## ORM & Database Abstraction
+- **Hibernate ORM** (Started in 2025)  
 
 <a href="https://pub.dev/packages/simplexpandablecard"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/package-publisher.svg" alt="Package Publisher" align="left" height="60" width="60" ></a>
 <br> </br>
