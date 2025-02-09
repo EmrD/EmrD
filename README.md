@@ -9,7 +9,8 @@ I’m currently working on improving my skills with myself.
 
 ## Languages
 - **Python** (Started in 2019)  
-- **JavaScript** (Started in 2022)  
+- **JavaScript** (Started in 2022)
+- **Java** (Started in 2024) 
 - **C#** (Started in 2024)  
 - **C** (Started in 2025)  
 - **C++** (Started in 2025)  
