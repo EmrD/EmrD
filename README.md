@@ -23,7 +23,11 @@ I’m currently working on improving my skills with myself.
 - **.NET** (Started in 2024)
 
 ## Version Control Systems
-- **Git** (Started in 2023)  
+- **Git** (Started in 2023)
+
+## Project Management SYstems
+- **Gradle** (Started in 2024)
+- **Maven** (Started in 2025)  
 
 ## Game Development (Game Engines)
 - **Unreal Engine** (Started in 2021)  
