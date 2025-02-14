@@ -20,7 +20,10 @@ I’m currently working on improving my skills with myself.
 - **React** (Started in 2024)  
 - **Java Spring Boot** (Started in 2024)  
 - **Node.js** (Started in 2024)  
-- **.NET** (Started in 2024)  
+- **.NET** (Started in 2024)
+
+## Version Control Systems
+- **Git** (Started in 2023)  
 
 ## Game Development (Game Engines)
 - **Unreal Engine** (Started in 2021)  
