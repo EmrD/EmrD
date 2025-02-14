@@ -25,7 +25,7 @@ I’m currently working on improving my skills with myself.
 ## Version Control Systems
 - **Git** (Started in 2023)
 
-## Project Management SYstems
+## Project Management Systems
 - **Gradle** (Started in 2024)
 - **Maven** (Started in 2025)  
 
