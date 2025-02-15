@@ -43,7 +43,8 @@ I’m currently working on improving my skills with myself.
 ## Databases & Storage
 - **MongoDB** (Started in 2024)  
 - **PostgreSQL** (Started in 2025)  
-- **Firebase / Google Cloud** (Started in 2024)  
+- **Firebase / Google Cloud** (Started in 2024)
+- **ElasticSearch** (Started in 2025)
 
 ## ORM & Database Abstraction
 - **Hibernate ORM** (Started in 2025)  
