@@ -1,5 +1,5 @@
 # About Me
-A passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, Java, and Javascript. Also I'm a backend developer but I can write frontend codes as much as I can. <strong>I started learning in 2019.</strong>
+A passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, Java, and Javascript. Also I'm a backend developer but I can write frontend codes as much as I can. <strong>I started learning in 2019. As a hobby, I'm interested with networking.</strong>
 
 I’m currently working on improving my skills with myself.
 
@@ -48,7 +48,10 @@ I’m currently working on improving my skills with myself.
 - **Redis** (Started in 2025)
 
 ## ORM & Database Abstraction
-- **Hibernate ORM** (Started in 2025)  
+- **Hibernate ORM** (Started in 2025)
+
+## Networking
+- **Cisco Packet Tracer** (Started in 2025)  
 
 <a href="https://pub.dev/packages/simplexpandablecard"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/package-publisher.svg" alt="Package Publisher" align="left" height="60" width="60" ></a>
 <br> </br>
