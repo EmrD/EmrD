@@ -1,5 +1,5 @@
 # About Me
-A passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, Java, and Javascript. Also I'm a backend developer but I can write frontend codes as much as I can. <strong>I started learning in 2019. As a hobby, I'm interested with networking. Then, I'm a security researcher on my free times with bug bounty programs.</strong>
+A passionate software developer interested in developing software across various platforms and languages. My primary interests lie in Python, Flutter, React, Java, and Javascript. Also I'm a backend developer but I can write frontend codes as much as I can. <strong>I started learning in 2019. As a hobby, I'm interested with networking. Then, I'm a security researcher in my free times with bug bounty programs.</strong>
 
 I’m currently working on improving my skills with myself.
 
