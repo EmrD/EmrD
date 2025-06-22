@@ -34,7 +34,8 @@ I’m currently working on improving my skills with myself.
 - **Unity Engine** (Started in 2024)  
 
 ## Containerization & Virtualization
-- **Docker** (Started in 2024)  
+- **Docker** (Started in 2024)
+- **Kubernetes** (Started in 2025)
 
 ## Message Brokers & Event Streaming
 - **Apache Kafka** (Started in 2024)  
@@ -129,9 +130,3 @@ I’m currently working on improving my skills with myself.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EmrD&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=EmrD&icon=0&color=0)](https://visitcount.itsvg.in)  
-
-![snake gif](https://github.com/EmrD/EmrD/blob/output/github-snake-dark.svg)
