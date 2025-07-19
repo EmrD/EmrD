@@ -8,17 +8,18 @@ I’m currently working on improving my skills with myself.
 # My Project Languages And Technologies
 
 ## Languages
-- **Python** (Started in 2019)  
+- **Python** (Started in 2019)
 - **JavaScript** (Started in 2022)
 - **Java** (Started in 2024) 
 - **C#** (Started in 2024)  
-- **C** (Started in 2025)  
-- **C++** (Started in 2025)  
+- **C** (Started in 2025) (Still learning)
+- **C++** (Started in 2025) (Still learning)
 
 ## Frameworks & Libraries
 - **Flutter** (Started in 2024)  
 - **React** (Started in 2024)  
-- **Java Spring Boot** (Started in 2024)  
+- **Java Spring Boot** (Started in 2024)
+- **J2EE Servlet** (Started in 2025)
 - **Node.js** (Started in 2024)  
 - **.NET** (Started in 2024)
 
@@ -35,7 +36,7 @@ I’m currently working on improving my skills with myself.
 
 ## Containerization & Virtualization
 - **Docker** (Started in 2024)
-- **Kubernetes** (Started in 2025)
+- **Kubernetes** (Started in 2025) (Still learning)
 
 ## Message Brokers & Event Streaming
 - **Apache Kafka** (Started in 2024)  
