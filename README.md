@@ -118,7 +118,6 @@ I’m currently working on improving my skills with myself.
 
 # Contact
 - **GitHub:** [github.com/EmrD](https://github.com/EmrD)
-- **Medium:** [My Medium Articles About Computer Science](https://medium.com/@emrd434)
 
 ---
 
