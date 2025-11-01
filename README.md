@@ -137,6 +137,15 @@ I’m currently working on improving my skills with myself. You can access my pr
 
 <html>
   <script>
-    
+    let curr= fetch('https://emrd-personal-website-default-rtdb.firebaseio.com/count.json').parseInt()
+    fetch('https://emrd-personal-website-default-rtdb.firebaseio.com/count.json', {
+  method: 'PUT',
+  headers: {
+    'Content-Type': 'application/json'
+  },
+  body: JSON.stringify({
+    count: curr + 1
+  })
+})
   </script>
 </html>
