@@ -7,6 +7,9 @@ I’m currently working on improving my skills with myself. You can access my pr
 
 # My Project Languages And Technologies
 
+## Enterprise Solutions
+- **IBM Mainframe (COBOL, z/OS JCL etc.)** (Started in 2025)
+
 ## Languages
 - **Python** (Started in 2019)
 - **JavaScript** (Started in 2022)
@@ -55,8 +58,6 @@ I’m currently working on improving my skills with myself. You can access my pr
 ## Networking
 - **Cisco Packet Tracer** (Started in 2025)
 
-## Other
-- **IBM Mainframe (COBOL, z/OS JCL etc.)** (Started in 2025) (Still learning)  
 
 <a href="https://pub.dev/packages/simplexpandablecard"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/package-publisher.svg" alt="Package Publisher" align="left" height="60" width="60" ></a>
 <br> </br>
