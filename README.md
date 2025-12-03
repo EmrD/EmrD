@@ -9,6 +9,8 @@ I’m currently working on improving my skills with myself. You can access my pr
 
 ## Enterprise Solutions
 - **IBM Mainframe (COBOL, z/OS JCL etc.)** (Started in 2025)
+- **Windows Server** (Started in 2025)
+- **Linux Server** (Started in 2025)
 
 ## Languages
 - **Python** (Started in 2019)
